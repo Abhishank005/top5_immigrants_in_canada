@@ -1,5 +1,5 @@
-# top5_immigrants_in_canada
-Task is to visualize the top five immigrants in canda from 1980 to 2013.
+# top5_immigrants_in_Canada
+Task is to visualize the top five immigrants in Canada from 1980 to 2013.
 
 ```python
 #Importing necessary libraries
