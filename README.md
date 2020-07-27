@@ -44,4 +44,4 @@ plt.show()
 ```
 
 ## Result
-![Result](Visualizatiom.png)
+![Result](Visualization.png)
