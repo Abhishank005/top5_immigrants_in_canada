@@ -42,4 +42,6 @@ plt.ylabel('Number of Immigrants')
 
 plt.show()
 ```
-![Results](Results/Results.png)
+
+## Result
+![Result](Visualizatiom.png)
