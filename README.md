@@ -40,5 +40,6 @@ plt.title('Bar graph of Immigration from top five countries based on total immeg
 plt.xlabel('Years')
 plt.ylabel('Number of Immigrants') 
 
-plt.show()```
-
+plt.show()
+```
+![Results](Results/Results.png)
